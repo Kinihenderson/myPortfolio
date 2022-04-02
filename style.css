@@ -1,39 +1,24 @@
-h1{
-  color: 
-  font-family: 
-  font-size:
-  
+.top-background{
+  background-color: #9a8c98;
+    color: #f2e9e4;
+    font-family:'Palatino';
+    font-size: 30px;
 }
-h2{
-  color: 
-  font-family: 
-  font-size:
+.image-circle{
+  border-radius: 25%;
 }
-
-  
-h3{
-  color: 
-  font-family: 
-  font-size:
+.image-background{
+  background-color: #f2e9e4
 }
-
-  p{
-
-    
-  }
-
-
- /* /whateverfolder/image.jpg
-
-*/
-
-
-
-
-
-a:link    { color:    }
-a:visited { color:  }
-a:hover   { color:  }
-a:active  { color: ; }
-
-
+.middle-background{
+  background-color: #c9ada7;
+    color: #f2e9e4;
+    font-family:'Palatino';
+    font-size: 15px;
+}
+.bottom-background{
+  background-color: #f2e9e4;
+    color: #000814;
+    font-family:'Palatino';
+    font-size: 15px;
+}
