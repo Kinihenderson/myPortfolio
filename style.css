@@ -1,3 +1,11 @@
+hr {
+  height: 4px;
+  background-color: #ede0d4;
+  border: 2px solid #a47148;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
 .top-background{
   background-color: #583101;
     color: #f2e9e4;
@@ -33,7 +41,6 @@ h1{
 h2{
   text-align: center;.
 }
-
 a:link    { color: #03071e }
 a:visited { color: #ede0d4 }
 a:hover   { color: #e6ccb2 }
