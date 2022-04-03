@@ -3,7 +3,7 @@
     color: #f2e9e4;
     font-family:'Palatino';
     font-size: 30px;
-
+}
 .image-circle{
   border-radius: 25%;
 }
@@ -32,4 +32,3 @@ h2{
 footer{
   text-align: center;
 }
-
