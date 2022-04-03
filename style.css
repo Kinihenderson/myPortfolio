@@ -3,11 +3,7 @@
     color: #f2e9e4;
     font-family:'Palatino';
     font-size: 30px;
-}
-.img.container{
-  text-align: center;
-  display: block;
-}
+
 .image-circle{
   border-radius: 25%;
 }
