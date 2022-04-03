@@ -34,6 +34,11 @@ h2{
   text-align: center;.
 }
 
+a:link    { color: #03071e }
+a:visited { color: #ede0d4 }
+a:hover   { color: #e6ccb2 }
+a:active  { color: #ddb892 }
+
 footer{
   text-align: center;
 }
